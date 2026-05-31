@@ -1,0 +1,22 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+nc: 11
+names:
+- nham mat
+- uong nuoc
+- soi guong chinh toc
+- binh thuong
+- voi tay ra sau
+- hut thuoc
+- noi chuyen dien thoai
+- nhan tin dien thoai
+- dieu chinh radio
+- buon ngu
+- ngap
+roboflow:
+  workspace: custom-yolo-orjlu
+  project: dms-driver-monitoring-system-z7zmc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/custom-yolo-orjlu/dms-driver-monitoring-system-z7zmc/dataset/1

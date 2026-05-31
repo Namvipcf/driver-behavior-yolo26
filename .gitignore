@@ -1,0 +1,34 @@
+# Dataset — không commit
+data/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+
+# YOLO output
+runs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Google Colab
+*.ipynb_metadata
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
