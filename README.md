@@ -16,7 +16,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 <!-- Thêm ảnh kết quả sau khi có -->
 ![Sample Prediction](results/sample_predictions.jpg)
 
-🌐 **Chạy web app local:** `python app.py` → mở `http://localhost:5000`
+**Chạy web app local:** `python app.py` → mở `http://localhost:5000`
 
 ---
 
