@@ -1,4 +1,4 @@
-# 🚗 Driver Behavior Detection — YOLO26
+# Driver Behavior Detection — YOLO26
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![YOLO26](https://img.shields.io/badge/YOLO-v26-green)
@@ -11,7 +11,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 
 ---
 
-## 📸 Demo
+## Demo
 
 <!-- Thêm ảnh kết quả sau khi có -->
 ![Sample Prediction](results/sample_predictions.jpg)
@@ -20,7 +20,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 
 ---
 
-## 📊 Kết quả mô hình
+## Kết quả mô hình
 
 | Training Curves | Confusion Matrix |
 |:---:|:---:|
@@ -29,7 +29,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 
 ---
 
-## 🚦 11 Hành vi được phát hiện
+## 11 Hành vi được phát hiện
 
 | ID | Hành vi | Mức độ nguy hiểm |
 |----|---------|-----------------|
@@ -50,7 +50,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 | | |
 |---|---|
@@ -61,7 +61,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 
 ---
 
-## 🧠 Pipeline huấn luyện (Google Colab)
+## Pipeline huấn luyện (Google Colab)
 
 | Bước | Nội dung |
 |------|---------|
@@ -77,7 +77,7 @@ Phát hiện **11 hành vi nguy hiểm của tài xế** trong khi lái xe sử 
 
 ---
 
-## ⚙️ Tham số huấn luyện
+## Tham số huấn luyện
 
 | Tham số | Giá trị |
 |---------|---------|
@@ -110,7 +110,7 @@ Mở trình duyệt tại `http://localhost:5000`
 
 ---
 
-## 🖥️ Tính năng Web App
+## Tính năng Web App
 
 - Upload ảnh (JPG, PNG) → phát hiện hành vi + vẽ bounding box
 - Hiển thị tên hành vi + confidence score
@@ -122,7 +122,7 @@ Mở trình duyệt tại `http://localhost:5000`
 
 ---
 
-## 🗂️ Môi trường huấn luyện
+## Môi trường huấn luyện
 
 | | |
 |---|---|
@@ -133,7 +133,7 @@ Mở trình duyệt tại `http://localhost:5000`
 
 ---
 
-## 📄 License
+## License
 
 MIT License — xem [LICENSE](LICENSE)
 
